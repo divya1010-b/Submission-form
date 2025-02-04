@@ -1,1 +1,2 @@
 # Submission-form
+This repository contains a simple HTML & CSS submission form that allows users to enter their name, email, and message. The form is designed with a clean, responsive layout and includes basic validation to ensure required fields are filled. It can be easily customized and integrated with a backend (e.g., PHP, Node.js) for handling form submissions. The project is beginner-friendly and a great starting point for learning form design and validation. 
